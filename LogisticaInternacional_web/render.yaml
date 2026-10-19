@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: logistica-internacional-ut
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
